@@ -1,9 +1,9 @@
 ### **🚀 Alaraaf Hassan | Tech Enthusiast, Innovator & Entrepreneur**  
 *CEO & Founder @ Medora | AI/ML Lead @ GDG Techno India University | Startup Enthusiast*  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome)](alaraaf.online)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/alaraafhassan)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)]((https://x.com/AlaraafHassan00))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome)](https://www.alaraaf.online)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alaraafhassan)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)]((https://www.x.com/AlaraafHassan00))  
 
 ---  
 
@@ -35,9 +35,9 @@
 ---  
 
 ### **📧 Connect with Me**  
-💌 Email: [your-email@example.com](mailto:alaraafhassan@gmail.com)  
-🌐 Website: [your-portfolio-link.com](alaraaf.online)  
-💼 LinkedIn: [your-linkedin-profile](www.linkedin.com/in/alaraafhassan)  
+💌 Email: [alaraafhassan@gmail.com](mailto:alaraafhassan@gmail.com)  
+🌐 Website: [alaraaf.online](alaraaf.online)  
+💼 LinkedIn: [Alaraaf hassan](www.linkedin.com/in/alaraafhassan)  
 
 ---
 
