@@ -1,5 +1,5 @@
 ### **🚀 Alaraaf Hassan | Tech Enthusiast, Innovator & Entrepreneur**  
-*CEO & Founder @ Medora | AI/ML Lead @ GDG Techno India University | Startup Enthusiast*  
+*CEO & Founder @ Medora | Startup Enthusiast*  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome)](https://www.alaraaf.online)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alaraafhassan)  
