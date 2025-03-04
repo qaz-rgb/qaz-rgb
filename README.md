@@ -36,8 +36,8 @@
 
 ### **📧 Connect with Me**  
 💌 Email: [alaraafhassan@gmail.com](mailto:alaraafhassan@gmail.com)  
-🌐 Website: [alaraaf.online](alaraaf.online)  
-💼 LinkedIn: [Alaraaf hassan](www.linkedin.com/in/alaraafhassan)  
+🌐 Website: [https://www.alaraaf.online](alaraaf.online)  
+💼 LinkedIn: [Alaraaf hassan](https://www.linkedin.com/in/alaraafhassan)  
 
 ---
 
